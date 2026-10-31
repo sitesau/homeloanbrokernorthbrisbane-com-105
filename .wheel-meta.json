@@ -1,0 +1,22 @@
+{
+  "wheel_id": 598,
+  "structure": "umbrella",
+  "slug": "homeloanbrokernorthbrisbane-com-105",
+  "project": "home-loan-brokers-north-brisbane-quotes-explained-77778f2f431e8",
+  "parent_t1_ref": "homeloanbrokernorthbrisbane-com-152",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokernorthbrisbane.com.au",
+  "primary_kw": "home loan brokers north brisbane quotes explained",
+  "intended_url": "https://sitesau.github.io/homeloanbrokernorthbrisbane-com-105/",
+  "tier": "T2",
+  "writeback_nonce": "e75eddf9406c7465",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/home-loan-brokers-north-brisbane-before-you-start-b58ebe2bed3ec/",
+      "anchor": "https://sites-e470-2.web.app/home-loan-brokers-north-brisbane-before-you-start-b58ebe2bed3ec/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
